@@ -7,3 +7,4 @@ I would like to make project
 
 new-branch-1
 git checkout -b new-branch-1
+solve bug
