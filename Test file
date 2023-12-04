@@ -1,7 +1,12 @@
-Hello world
+const massMark = 78;
+const heightMark = 1.69;
+const massJohn = 92;
+const heightJohn = 1.95;
 
-31github starts
+const BMIMark = massMark / (heightMark * heightMark);
+const BMIJohn = massJohn / (heightJohn * heightJohn);
+console.log(BMIMark, BMIJohn);
 
-Hey, Whats up?
-How are you?
+/* Write your code below. Good luck! 🙂 */
+
 
