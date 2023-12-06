@@ -1,0 +1,45 @@
+First Name,Last Name,email,Phone,Title,Company,Address Line 1,City,State/Province,Postal Code,Country,Industry,Owner,Rating,Status
+Adrian,Benavides,Benavides@123Warehousing.com,(415) 835-1656,Director of IT,123 Warehousing,1775 11th,San Francisco,CA,94106,USA,Biotechnology,Anna Bressan,Hot,Open
+Carla,Borgonovo,Borgonovo@ZiffCorp.com,(415) 835-1658,Director of Information Systems,ZiffCorp,82 T.W. Alexander Drive,Durham,NC,27718,USA,Biotechnology,Anna Bressan,Cold,Open
+Ann,Bowles,Bowles@AcmeCorp.com,(415) 242-9230,Director of Information Systems,Acme Corp,80 T.W. Alexander Drive,RTP,NC,27709,USA,Manufacturing,Matt Wilson,Cold,Open
+B,Bradley,Bradley@Mr.Sparkle.com,(415) 835-1659,Director of IT,Mr. Sparkle,79 T.W. Alexander Drive,Durham,NC,27715,USA,Biotechnology,Anna Bressan,Cold,Open
+Al,Broumand,Broumand@SmithandCo.com,(415) 835-1658,Director of Information Systems,Smith and Co.,2530 Berryessa Rd. # 524,San Francisco,CA,94108,USA,Biotechnology,Anna Bressan,Cold,Open
+David,Campbell,Campbell@Virtucon.com,(415) 835-1661,Director of Information Systems,Virtucon,2035 Gateway Place,Walnut Creek,CA,94601,USA,Biotechnology,Anna Bressan,Hot,Open
+Dan,Casey,Casey@ThriftBank.com,(415) 835-1655,Director of Information Systems,Thrift Bank,1776 11th,San Francisco,CA,94104,USA,Recreation,Phil Smith,Hot,Open
+Andy,Com,Com@Sampleinc.com,(415) 835-1665,CIO,"Sample, inc",602 Van Ness Ave.,San Francisco,CA,94117,USA,Finance,Phil Smith,Cold,Open
+Brenda,Cowan,Cowan@StoPlainsHoldings.com,(925) 210-3943,Director of Information Systems,Sto Plains Holdings,4501 Durham Chapel Hill Boulevard,Chapel Hill,NC,27714,USA,Finance,Phil Smith,Hot,Open
+Chris,Dailey,Dailey@ThathertonFuels.com,(415) 835-1661,CIO,Thatherton Fuels,1761 Marin Ave,Durham,NC,27721,USA,Manufacturing,Matt Wilson,Cold,Open
+Christopher,Damman,Damman@MoobyCorp.com,(415) 242-9230,Director of IT,Mooby Corp,2034 Gateway Place,San Francisco,CA,94102,USA,Biotechnology,Anna Bressan,Cold,Open
+Dan,Davis,Davis@FlowersByIrene.com,(415) 835-1656,"Manager, Hardware Procurement",Flowers By Irene,602 Van Ness Ave.,San Francisco,CA,94105,USA,Technology,Phil Smith,Hot,Open
+Carol,Diesner,Diesner@BluthCompany.com,(415) 835-1659,"Manager, Hardware Procurement",Bluth Company,1762 Marin Ave,Raleigh,NC,27719,USA,Transportation,Phil Smith,Hot,Open
+Dee,Elson,Elson@KumatsuMotors.com,(415) 835-1663,Director of IT,Kumatsu Motors,1777 11th,Walnut Creek,CA,94603,USA,Biotechnology,Anna Bressan,Cold,Open
+Darres,Fischer,Fischer@OsatoChemicals.com,(415) 835-1658,CIO,Osato Chemicals,"3104 Deerpark Dr,",Walnut Creek,CA,94598,USA,Manufacturing,Matt Wilson,Hot,Open
+Brenna,Fischer,Fischer@WayneEnterprises.com,(415) 835-1656,Director of IT,Wayne Enterprises,401 W. Main Street #604,Raleigh,NC,27716,USA,Biotechnology,Anna Bressan,Hot,Open
+Claire,Friesen,Friesen@Gringotts.com,(925) 210-3943,CIO,Gringotts,1259 1/2 11th Ave.,San Francisco,CA,94103,USA,Transportation,Phil Smith,Warm,Open
+Darin,Gelber,Gelber@TheLegitimateBusinessmensClub.com,(415) 835-1657,Director of IT,The Legitimate Businessmens Club,2531 Berryessa Rd. # 524,San Francisco,CA,94106,USA,Manufacturing,Matt Wilson,Cold,Open
+Anne,Hall,Hall@ExtensiveEnterprise.com,(415) 835-1656,CIO,Extensive Enterprise,2820 Pickett Road,Durham,NC,27712,USA,Transportation,Phil Smith,Hot,Open
+Ann,Hansen,Hansen@AlliedBiscuit.com,(925) 210-3943,"Manager, Hardware Procurement",Allied Biscuit,1760 Marin Ave,Raleigh,NC,27710,USA,Finance,Phil Smith,Cold,Open
+Andre,Kahn,Kahn@Demoinc.com,(415) 835-1663,"Manager, Hardware Procurement","Demo, inc.",1259 1/2 11th Ave.,San Francisco,CA,94114,USA,Manufacturing,Matt Wilson,Hot,Open
+Adam,Kehoe,Kehoe@WidgetCorp.com,(415) 835-1655,"Manager, Hardware Procurement",Widget Corp,1258 1/2 11th Ave.,San Francisco,CA,94105,USA,Transportation,Phil Smith,Cold,Open
+Anna,Kuensch,Kuensch@AnkhStoAssociates.com,(415) 835-1655,Director of IT,Ankh-Sto Associates,1330 Hamlin Road,Chapel Hill,NC,27711,USA,Finance,Phil Smith,Cold,Open
+Bill,Lee,Lee@LexCorp.com,(415) 835-1661,Director of Information Systems,LexCorp,1335 Hamlin Road,RTP,NC,27717,USA,Recreation,Phil Smith,Warm,Open
+chris,Leontovitch,Leontovitch@ThreeWaters.com,(415) 835-1662,Director of Information Systems,Three Waters,1331 Hamlin Road,Raleigh,NC,27722,USA,Finance,Phil Smith,Warm,Open
+Daryl,Mcenhill,Mcenhill@TransworldConsortium.com,(415) 835-1659,Director of Information Systems,Transworld Consortium,202 E. Santa Clara St,Walnut Creek,CA,94599,USA,Finance,Phil Smith,Hot,Open
+Chris,Moore,Moore@WaterandPower.com,(415) 835-1663,CIO,Water and Power,2531 Berryessa Rd. # 524,San Francisco,CA,94105,USA,Transportation,Phil Smith,Hot,Open
+Blair,Murphy,Murphy@NorthCentralPositronics.com,(415) 835-1663,Director of IT,North Central Positronics,1761 Marin Ave,RTP,NC,27719,USA,Telecommunications,Phil Smith,Warm,Open
+Dervla,Peterson,Peterson@KeedslerMotors.com,(415) 835-1664,CIO,Keedsler Motors,603 Van Ness Ave.,Walnut Creek,CA,94604,USA,Transportation,Phil Smith,Hot,Open
+Alison,Propeller,Propeller@ABCTelecom.com,(415) 835-1660,Director of IT,ABC Telecom,2828 Aiello Dr #A,San Francisco,CA,94111,USA,Recreation,Phil Smith,Cold,Open
+Alan,Prussia,Prussia@FooBars.com,(415) 835-1659,"Manager, Hardware Procurement",Foo Bars,200 E. Santa Clara St,San Francisco,CA,94109,USA,Transportation,Phil Smith,Cold,Open
+Blair,Robinson,Robinson@OmniConsimerProducts.com,(415) 835-1664,CIO,Omni Consimer Products,1331 Hamlin Road,RTP,NC,27720,USA,Electronics,Matt Wilson,Hot,Open
+Alix,Rowan,Rowan@FakeBrothers.com,(415) 835-1661,CIO,Fake Brothers,2033 Gateway Place,San Francisco,CA,94112,USA,Technology,Phil Smith,Cold,Open
+Ayla,Savelli,Savelli@Globo-Chem.com,(415) 835-1658,"Manager, Hardware Procurement",Globo-Chem,4500 Durham Chapel Hill Boulevard,RTP,NC,27714,USA,Biotechnology,Anna Bressan,Warm,Open
+Brenda,See,See@Tessier-Ashpool.com,(415) 835-1655,"Manager, Hardware Procurement",Tessier-Ashpool,80 T.W. Alexander Drive,Durham,NC,27715,USA,Transportation,Phil Smith,Cold,Open
+Christina,Sharron,Sharron@MammothPictures.com,(415) 835-1665,"Manager, Hardware Procurement",Mammoth Pictures,2829 Aiello Dr #A,San Francisco,CA,94107,USA,Biotechnology,Anna Bressan,Cold,Open
+Dave,Simonds,Simonds@UniversalExport.com,(415) 835-1660,CIO,Universal Export,2830 Aiello Dr #A,Walnut Creek,CA,94600,USA,Transportation,Phil Smith,Cold,Open
+Brandi,Thomas,Thomas@SombraCorporation.com,(415) 242-9230,CIO,Sombra Corporation,4031 East Cornwallis Road,Raleigh,NC,27722,USA,Manufacturing,Matt Wilson,Hot,Open
+Chris,Thomas,Thomas@WesternGasElectric.com,(415) 835-1664,Director of Information Systems,Western Gas & Electric,201 E. Santa Clara St,San Francisco,CA,94106,USA,Biotechnology,Anna Bressan,Hot,Open
+Debi,Tonra,Tonra@Virtucon.com,(415) 835-1662,"Manager, Hardware Procurement",Virtucon,1260 1/2 11th Ave.,Walnut Creek,CA,94602,USA,Biotechnology,Anna Bressan,Warm,Open
+Bill,Westgard,Westgard@LuthorCorp.com,(415) 835-1662,"Manager, Hardware Procurement",LuthorCorp,81 T.W. Alexander Drive,RTP,NC,27718,USA,Technology,Phil Smith,Cold,Open
+Annie,Wishnie,Wishnie@GalaxyCorp.com,(415) 835-1657,Director of Information Systems,Galaxy Corp,4030 East Cornwallis Road,Raleigh,NC,27713,,Biotechnology,Anna Bressan,Hot,Open
+Cat,Wong,Wong@StricklandPropane.com,(415) 835-1660,Director of IT,Strickland Propane,81 T.W. Alexander Drive,Chapel Hill,NC,27720,USA,Manufacturing,Matt Wilson,Hot,Open
+Allen,Zimmers,Zimmers@QWERTYLogistics.com,(415) 835-1662,Director of Information Systems,QWERTY Logistics,735 Crocker Ave,San Francisco,CA,94113,,Telecommunications,Phil Smith,Cold,Open
