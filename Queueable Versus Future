@@ -1,5 +1,0 @@
-@future
-static void myFutureMethod(List<String> params) {
-    // call synchronous method
-    mySyncMethod(params);
-}
