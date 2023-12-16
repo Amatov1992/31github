@@ -25,3 +25,5 @@ Today is Friday
      Monday. I deleted many files today
 
 Today I deleted many files again
+
+new day - new opportunities
