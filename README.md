@@ -27,3 +27,5 @@ Today is Friday
 Today I deleted many files again
 
 new day - new opportunities
+
+hello. Whats up
