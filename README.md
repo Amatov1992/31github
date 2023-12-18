@@ -32,3 +32,5 @@ Today I deleted many files again
 new day - new opportunities
 
 hello. Whats up
+I can do it
+I win
