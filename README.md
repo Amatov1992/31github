@@ -27,7 +27,7 @@ A collection of easy-to-digest code examples for Lightning Web Components. Each 
 
 -   [Code tours](#code-tours)
 
-## Installing the app using a Scratch Org
+## Installing the app using a Scratch org
 
 1. Set up your environment. Follow the steps in the [Quick Start: Lightning Web Components](https://trailhead.salesforce.com/content/learn/projects/quick-start-lightning-web-components/) Trailhead project. The steps include:
 
