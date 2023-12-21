@@ -3,7 +3,6 @@
 [![CI Workflow](https://github.com/trailheadapps/lwc-recipes/workflows/CI/badge.svg)](https://github.com/trailheadapps/lwc-recipes/actions?query=workflow%3ACI) [![Packaging Workflow](https://github.com/trailheadapps/lwc-recipes/workflows/Packaging/badge.svg)](https://github.com/trailheadapps/lwc-recipes/actions?query=workflow%3A%22Packaging%22) [![codecov](https://codecov.io/gh/trailheadapps/lwc-recipes/branch/main/graph/badge.svg)](https://codecov.io/gh/trailheadapps/lwc-recipes)
 
 
-A collection of easy-to-digest code examples for Lightning Web Components. Each recipe demonstrates how to code a specific task in the fewest lines of code possible while following best practices. A "View Source" link takes you directly to the code on GitHub. From "Hello World" to data access and third-party libraries, there's a recipe for that!
 
 <div>
     <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-lwc-recipes-app/bb501c3216ac163958f036fb90357955_badge.png" align="left" alt="Trailhead Badge"/>
