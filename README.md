@@ -174,6 +174,7 @@ This repository contains several files that are relevant if you want to integrat
 > The current Apex Prettier plugin version requires that you install Java 11 or above.
 ## Hello
 ### world
+Hello world
 
 ### Code linting
 
