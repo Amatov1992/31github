@@ -1,4 +1,4 @@
-# Lightning Web Components Recipes
+
 
 [![CI Workflow](https://github.com/trailheadapps/lwc-recipes/workflows/CI/badge.svg)](https://github.com/trailheadapps/lwc-recipes/actions?query=workflow%3ACI) [![Packaging Workflow](https://github.com/trailheadapps/lwc-recipes/workflows/Packaging/badge.svg)](https://github.com/trailheadapps/lwc-recipes/actions?query=workflow%3A%22Packaging%22) [![codecov](https://codecov.io/gh/trailheadapps/lwc-recipes/branch/main/graph/badge.svg)](https://codecov.io/gh/trailheadapps/lwc-recipes)
 
